@@ -4,8 +4,7 @@
  * main - Entry point
  *
  * Use variable i and j to represent digits to print
- * Outer for loop iterates over i from 0 to 9
- * Inner for loop iterates over j from i t0 9
+ * for loop iterates over i from 0 to 9
  * Print current digits as characters
  * Add comma and space between the digits unless its the last combination
  *
@@ -23,7 +22,7 @@ int main(void)
 			putchar(',');
 			putchar(' ');
 		}
-		
+
 	}
 
 	putchar('\n');
