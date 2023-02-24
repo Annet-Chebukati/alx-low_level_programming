@@ -1,21 +1,20 @@
 #include "main.h"
 
 /**
- * print_numbers - prints alphabet in lowercae followed by newline
- *except number 2 and 4
+ * print_most_numbers - prints alphabet in lowercae followed by newline
+ * except number 2 and 4
  * Return: void
  */
 void print_most_numbers(void)
 {
-	char c = '0';
+	int c;
 
-	while (c <= '9')
+	for (c = 0; c <= 9; c++)
 	{
-		if (c != '2' && c != '4')
+		if (c != 2 && c != 4)
 		{
-			_putchar(c);
+			_putchar(c + '0');
 		}
-		c++;
 	}
 	_putchar('\n');
 }
