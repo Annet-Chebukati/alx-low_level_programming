@@ -8,7 +8,7 @@ The C scripts were compiled with GCC.
 
 Some scripts need more specific requirements, but these will be shown where they are needed.
 
-Prpjects
+# Projects
 
 Here is the complete list of projects in this repository, each project has its description in its respective folder.
 
@@ -74,6 +74,6 @@ Here is the complete list of projects in this repository, each project has its d
 
 - 0x1E. C - Search Algorithms
 
-Usage
+# Usage
 
 Each project and task contains the instructions to compile the code and execute the results.
