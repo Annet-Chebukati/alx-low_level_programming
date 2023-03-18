@@ -73,3 +73,7 @@ Here is the complete list of projects in this repository, each project has its d
 - 0x1D. C - Binary trees
 
 - 0x1E. C - Search Algorithms
+
+Usage
+
+Each project and task contains the instructions to compile the code and execute the results.
